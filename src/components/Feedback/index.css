@@ -1,0 +1,64 @@
+/* Write your CSS code here. */
+.container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  background-size: cover;
+  padding: 50px;
+}
+.inner-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 50px;
+  background-color: #ffffff;
+  background-size: cover;
+  margin: 50px;
+  border-radius: 20px;
+  font-family: 'roboto';
+}
+.heading {
+  font-size: 25px;
+  color: #0f172a;
+  font-weight: bold;
+}
+.img-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  margin: 50px;
+}
+.image {
+  height: 70px;
+  width: 70px;
+}
+.para {
+  font-size: 16px;
+  color: #1e293b;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 200px;
+}
+.love-image {
+  height: 50px;
+  width: 50px;
+  align-self: center;
+}
+.heading1 {
+  font-size: 25px;
+  color: #0f172a;
+  font-weight: bold;
+}
+.para1 {
+  font-size: 16px;
+  color: #1e293b;
+}
